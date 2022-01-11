@@ -1,0 +1,13 @@
+name: TileMaster
+title: TileMaster
+username:
+account: fbellelli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4300669
+bundleId: 4740888
+url: https://fbellelli.shinyapps.io/TileMaster/
+when: 1624310472.11378
+lastSyncTime: 1624310472.11378
+asMultiple: FALSE
+asStatic: FALSE
